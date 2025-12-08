@@ -1,4 +1,4 @@
 go4.org/netipx v0.0.0-20220925034521-797b0c90d8ab h1:+yW1yrZ09EYNu1spCUOHBBNRbrLnfmutwyhbhCv3b6Q=
 go4.org/netipx v0.0.0-20220925034521-797b0c90d8ab/go.mod h1:tgPU4N2u9RByaTN3NC2p9xOzyFpte4jYwsIIRF7XlSc=
-golang.org/x/sync v0.18.0 h1:kr88TuHDroi+UVf+0hZnirlk8o8T+4MrK6mr60WkH/I=
-golang.org/x/sync v0.18.0/go.mod h1:9KTHXmSnoGruLpwFjVSX0lNNA75CykiMECbovNTZqGI=
+golang.org/x/sync v0.19.0 h1:vV+1eWNmZ5geRlYjzm2adRgW2/mcpevXNg50YZtPCE4=
+golang.org/x/sync v0.19.0/go.mod h1:9KTHXmSnoGruLpwFjVSX0lNNA75CykiMECbovNTZqGI=
