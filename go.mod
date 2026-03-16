@@ -1,8 +1,8 @@
 module github.com/jimmystewpot/dns-prime
 
-go 1.24.0
+go 1.25.0
 
 require (
 	go4.org/netipx v0.0.0-20220925034521-797b0c90d8ab
-	golang.org/x/sync v0.19.0
+	golang.org/x/sync v0.20.0
 )
